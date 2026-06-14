@@ -1,0 +1,103 @@
+{
+"lawFirm": "Advokatlik byurosi",
+
+"navbar_about": "Biz haqimizda",
+"navbar_services": "Xizmatlar",
+"navbar_advantages": "Afzalliklar",
+"navbar_contacts": "Kontaktlar",
+"navbar_consultation": "Maslahat",
+
+"main_title": "Professional yuridik himoya",
+"main_subtitle": "Biznes va jismoniy shaxslar manfaatlarini O'zbekistonda va undan tashqarida himoya qilamiz.",
+"main_button": "Maslahat olish",
+
+"about_label": "Byuro haqida",
+"about_title1": "Huquq sizning",
+"about_title2": "tomoningizda",
+"law_firm_founded": "Advokatlik byurosi • 2024-yilda tashkil etilgan",
+"about_subtitle": "Manfaatlaringizni professional yuridik himoya qilish.",
+"about_tags": "Ishonchlilik. Tajriba. Natija.",
+"VV":"VV",
+
+"about_description1": "VIVOST FEMIDA advokatlik byurosi 2024-yil mart oyida tashkil etilgan. Biz iqtisodiy, fuqarolik, soliq, tijorat, mehnat, oilaviy, ma’muriy va jinoyat huquqi sohalarida professional yuridik yordam ko‘rsatamiz.",
+
+"about_description2": "Biznes uchun autsorsing shaklida huquqiy xizmat ko'rsatish tajribasiga egamiz, bu esa xavflarni kamaytirish va resurslarni tejash imkonini beradi.",
+
+"about_experience": "yillik tajriba",
+"about_areas": "huquq sohalari",
+"about_foundation": "tashkil etilgan yil",
+"about_confidentiality": "maxfiylik",
+
+"lawyer_name": "Vostrikova Viktoriya Sergeyevna",
+"lawyer_name1": "Vostrikova Viktoriya",
+"lawyer_position": "Rahbar · Advokat",
+"outsourcing_support": "Biznesni autsorsing asosida yuridik qo'llab-quvvatlash",
+
+"lawyer_achievement1": "Huquq magistri — JIDU, 2022",
+"lawyer_achievement2": "Huquq bakalavri — RUDN, 2020",
+"lawyer_achievement3": "6 yildan ortiq yuridik amaliyot",
+"lawyer_achievement4": "Xalqaro va tijorat huquqi",
+
+"why_label": "Bizning afzalliklarimiz",
+"why_title1": "Nega aynan",
+"why_title2": "biz",
+
+"why_professionalism_title": "Yuqori professionallik",
+"why_professionalism_desc": "Turli huquq sohalarida 6 yildan ortiq amaliy tajribaga ega huquq magistri.",
+
+"why_confidentiality_title": "To'liq maxfiylik",
+"why_confidentiality_desc": "Advokatlik siriga qat’iy rioya qilinadi va barcha ma’lumotlar himoyalanadi.",
+
+"why_approach_title": "Kompleks yondashuv",
+"why_approach_desc": "Mijoz vaziyatining barcha jihatlarini qamrab olgan holda huquqiy masalalarni hal qilamiz.",
+
+"why_risks_title": "Xavflarni kamaytirish",
+"why_risks_desc": "Professional yuridik yordam biznes xavflarini kamaytiradi va resurslarni tejaydi.",
+
+"services_label": "Amaliyot",
+"services_title1": "Bizning",
+"services_title2": "xizmatlarimiz",
+
+"service_court_title": "Sudlarda vakillik",
+"service_court_desc": "Iqtisodiy, fuqarolik va jinoyat sudlarida barcha instansiyalarda manfaatlarni himoya qilish.",
+"service_court_tag": "Barcha instansiyalar",
+
+"service_contracts_title": "Shartnomalar bilan ishlash",
+"service_contracts_desc": "Har qanday murakkablikdagi shartnomalarni tayyorlash va ekspertiza qilish.",
+"service_contracts_tag": "Har qanday murakkablik",
+
+"service_business_title": "Biznesni yuridik qo'llab-quvvatlash",
+"service_business_desc": "Yuridik autsorsing, maslahatlar va muzokaralarni qo'llab-quvvatlash.",
+"service_business_tag": "Autsorsing",
+
+"service_international_title": "Xalqaro huquq",
+"service_international_desc": "Xalqaro bitimlar, investitsiyalar va tijorat nizolarini yuritish.",
+"service_international_tag": "Xalqaro tajriba",
+
+"service_mediation_title": "Mediatsiya",
+"service_mediation_desc": "Sudgacha bo'lgan nizolarni professional hal etish.",
+"service_mediation_tag": "Sudgacha",
+
+"service_criminal_title": "Jinoyat ishlari",
+"service_criminal_desc": "Iqtisodiy va korrupsion jinoyatlar bo'yicha himoya.",
+"service_criminal_tag": "Jinoyat huquqi",
+
+"contact_label": "Biz bilan bog'laning",
+"contact_title": "Kontaktlar",
+
+"contact_phone": "Telefon",
+"contact_email": "Email",
+"contact_telegram": "Telegram",
+"contact_socials": "Instagram",
+
+"contact_consultation_label": "Bepul maslahat",
+"contact_consultation_title": "Manfaatlaringizni himoya qilishga tayyormiz",
+
+"contact_consultation_text": "Biz bilan bog'laning va vaziyatingiz bo'yicha huquqiy tahlil hamda eng maqbul yechimni taqdim etamiz.",
+
+"contact_telegram_button": "Telegram orqali yozish",
+"contact_email_button": "Email orqali yozish",
+
+"footer_company": "VIVOST FEMIDA",
+"footer_rights": "Barcha huquqlar himoyalangan."
+}

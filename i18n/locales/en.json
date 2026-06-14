@@ -1,0 +1,103 @@
+{
+"lawFirm": "Law Firm",
+
+"navbar_about": "About Us",
+"navbar_services": "Services",
+"navbar_advantages": "Advantages",
+"navbar_contacts": "Contacts",
+"navbar_consultation": "Consultation",
+
+"main_title": "Professional Legal Protection",
+"main_subtitle": "Protecting the interests of businesses and individuals in Uzbekistan and beyond.",
+"main_button": "Get Consultation",
+
+"about_label": "About Firm",
+"about_title1": "Law on Your",
+"about_title2": "side",
+"law_firm_founded": "Law Firm • Founded in 2024",
+"about_subtitle": "Professional legal protection of your interests.",
+"about_tags": "Reliability. Experience. Results.",
+"VV": "VV",
+
+"about_description1": "VIVOST FEMIDA Law Firm was founded in March 2024. We provide professional legal assistance in economic, civil, tax, commercial, labor, family, administrative and criminal matters.",
+
+"about_description2": "We have extensive experience in legal outsourcing, helping businesses reduce risks and save resources.",
+
+"about_experience": "years of Experience",
+"about_areas": "areas of Law",
+"about_foundation": "year Founded",
+"about_confidentiality": "confidentiality",
+
+"lawyer_name": "Viktoria Sergeevna Vostrikova",
+"lawyer_name1": "Viktoria Vostrikova",
+"lawyer_position": "Managing Partner · Attorney",
+"outsourcing_support": "Business Outsourcing Legal Support",
+
+"lawyer_achievement1": "Master of Law — UWED, 2022",
+"lawyer_achievement2": "Bachelor of Law — RUDN University, 2020",
+"lawyer_achievement3": "More than 6 years of legal practice",
+"lawyer_achievement4": "International and Commercial Law",
+
+"why_label": "Our Advantages",
+"why_title1": "Why Clients Choose",
+"why_title2": "Us",
+
+"why_professionalism_title": "High Professionalism",
+"why_professionalism_desc": "Master of Law with more than 6 years of practical experience in various areas of law.",
+
+"why_confidentiality_title": "Full Confidentiality",
+"why_confidentiality_desc": "Strict observance of attorney-client privilege. All client information is securely protected.",
+
+"why_approach_title": "Comprehensive Approach",
+"why_approach_desc": "We solve legal issues comprehensively, covering every aspect of the client's situation.",
+
+"why_risks_title": "Risk Reduction",
+"why_risks_desc": "Professional legal support reduces legal risks and saves business resources.",
+
+"services_label": "Practice",
+"services_title1": "Our",
+"services_title2": "services",
+
+"service_court_title": "Court Representation",
+"service_court_desc": "Protection of interests in economic, civil and criminal courts at all levels.",
+"service_court_tag": "All Instances",
+
+"service_contracts_title": "Contract Management",
+"service_contracts_desc": "Drafting, reviewing and supporting contracts of any complexity.",
+"service_contracts_tag": "Any Complexity",
+
+"service_business_title": "Business Legal Support",
+"service_business_desc": "Legal outsourcing, consultations, documentation and negotiations support.",
+"service_business_tag": "Outsourcing",
+
+"service_international_title": "International Law",
+"service_international_desc": "Support for international transactions, investments and commercial disputes.",
+"service_international_tag": "International Experience",
+
+"service_mediation_title": "Mediation",
+"service_mediation_desc": "Professional dispute resolution without court proceedings.",
+"service_mediation_tag": "Pre-Trial",
+
+"service_criminal_title": "Criminal Cases",
+"service_criminal_desc": "Defense in economic, official and corruption-related criminal cases.",
+"service_criminal_tag": "Criminal Law",
+
+"contact_label": "Contact Us",
+"contact_title": "Contacts",
+
+"contact_phone": "Phone",
+"contact_email": "Email",
+"contact_telegram": "Telegram",
+"contact_socials": "Instagram",
+
+"contact_consultation_label": "Free Consultation",
+"contact_consultation_title": "Ready to Protect Your Interests",
+
+"contact_consultation_text": "Contact us and we will review your case, provide legal analysis and offer the best solution for your situation.",
+
+"contact_telegram_button": "Message on Telegram",
+"contact_email_button": "Send Email",
+
+"footer_company": "VIVOST FEMIDA",
+"footer_rights": "All rights reserved."
+}

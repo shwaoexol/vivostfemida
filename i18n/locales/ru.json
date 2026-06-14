@@ -1,0 +1,107 @@
+{
+"lawFirm": "Адвокатское бюро",
+
+"navbar_about": "О нас",
+"navbar_services": "Услуги",
+"navbar_advantages": "Преимущества",
+"navbar_contacts": "Контакты",
+"navbar_consultation": "Консультация",
+
+"main_title": "Профессиональная юридическая защита",
+"main_subtitle": "Защищаем интересы бизнеса и частных клиентов в Узбекистане и за его пределами.",
+"main_button": "Получить консультацию",
+
+"about_label": "О бюро",
+"about_title1": "Право на вашей",
+"about_title2": "стороне",
+
+
+"about_description1": "Адвокатское бюро VIVOST FEMIDA основано в марте 2024 года. Мы оказываем профессиональную юридическую помощь в экономической, гражданской, налоговой, коммерческой, трудовой, семейной, административной и уголовной сферах.",
+
+"about_description2": "Обладаем опытом сопровождения клиентов в формате аутсорсинга, снижая риски и экономя ресурсы бизнеса.",
+
+"law_firm_founded": "Адвокатское бюро • Основано 2024",
+"about_subtitle": "Профессиональная юридическая защита ваших интересов.",
+"about_tags": "Надёжность. Опыт. Результат.",
+"VV": "ВВ",
+
+"about_experience": "лет опыта",
+"about_areas": "областей права",
+"about_foundation": "год основания",
+"about_confidentiality": "конфиденциальность",
+
+"lawyer_name": "Вострикова Виктория Сергеевна",
+"lawyer_name1": "Вострикова Виктория",
+"lawyer_position": "Руководитель · Адвокат",
+"outsourcing_support": "Аутсорсинговое сопровождение бизнеса",
+
+"lawyer_achievement1": "Магистр юриспруденции — УМЭД, 2022",
+"lawyer_achievement2": "Бакалавр юриспруденции — РУДН, 2020",
+"lawyer_achievement3": "Более 6 лет юридической практики",
+"lawyer_achievement4": "Международное и коммерческое право",
+
+"why_label": "Наши преимущества",
+"why_title1": "Почему выбирают",
+"why_title2": "нас",
+
+"why_professionalism_title": "Высокий профессионализм",
+"why_professionalism_desc": "Магистр юриспруденции с более чем 6-летним практическим опытом в различных отраслях права.",
+
+"why_confidentiality_title": "Полная конфиденциальность",
+"why_confidentiality_desc": "Строгое соблюдение адвокатской тайны и защита информации клиентов.",
+
+"why_approach_title": "Комплексный подход",
+"why_approach_desc": "Решаем правовые вопросы комплексно, охватывая все аспекты ситуации клиента.",
+
+"why_risks_title": "Снижение рисков",
+"why_risks_desc": "Профессиональное юридическое сопровождение помогает минимизировать риски и экономить ресурсы.",
+
+"services_label": "Практика",
+"services_title1": "Наши",
+"services_title2": "услуги",
+
+
+
+"service_court_title": "Судебное представительство",
+"service_court_desc": "Защита интересов в экономических, гражданских и уголовных судах всех инстанций.",
+"service_court_tag": "Все инстанции",
+
+"service_contracts_title": "Договорная работа",
+"service_contracts_desc": "Разработка, экспертиза и сопровождение договоров любой сложности.",
+"service_contracts_tag": "Любая сложность",
+
+"service_business_title": "Юридическое сопровождение бизнеса",
+"service_business_desc": "Юридический аутсорсинг, консультации, документация и сопровождение переговоров.",
+"service_business_tag": "Аутсорсинг",
+
+"service_international_title": "Международное право",
+"service_international_desc": "Сопровождение международных сделок, инвестиций и коммерческих споров.",
+"service_international_tag": "Международный опыт",
+
+"service_mediation_title": "Медиация",
+"service_mediation_desc": "Профессиональное урегулирование споров без судебного разбирательства.",
+"service_mediation_tag": "Досудебно",
+
+"service_criminal_title": "Уголовные дела",
+"service_criminal_desc": "Защита по уголовным делам экономической, должностной и коррупционной направленности.",
+"service_criminal_tag": "Уголовное право",
+
+"contact_label": "Связаться с нами",
+"contact_title": "Контакты",
+
+"contact_phone": "Телефон",
+"contact_email": "Email",
+"contact_telegram": "Telegram",
+"contact_socials": "Instagram",
+
+"contact_consultation_label": "Бесплатная консультация",
+"contact_consultation_title": "Готовы защитить ваши интересы",
+
+"contact_consultation_text": "Свяжитесь с нами, и мы проведём анализ вашей ситуации, предложим правовое решение и оптимальную стратегию защиты.",
+
+"contact_telegram_button": "Написать в Telegram",
+"contact_email_button": "Написать на Email",
+
+"footer_company": "VIVOST FEMIDA",
+"footer_rights": "Все права защищены."
+}
