@@ -34,19 +34,6 @@
   }
 }
 
-/* .btn-primary {
-  @apply rounded-full bg-rose px-8 py-4 text-white transition;
+html {
+  scroll-behavior: smooth;
 }
-
-.btn-primary:hover {
-  @apply opacity-90;
-}
-
-.btn-secondary {
-  @apply rounded-full border border-white/30 px-8 py-4 text-white transition;
-}
-
-.btn-secondary:hover {
-  @apply opacity-90;
-
-} */
