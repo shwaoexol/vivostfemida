@@ -5,6 +5,8 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import LanguageSwitcher from "./LanguageSwitcher";
+import Link from "next/link";
+
 
 export default function Navbar() {
   const { t } = useTranslation();
@@ -26,7 +28,11 @@ export default function Navbar() {
     {
       href: "#contact",
       label: t("navbar_contacts"),
-    },
+    }
+    // {
+    //   href:"/news",
+    //   label: "Новости"
+    // }
   ];
 
   return (
@@ -53,13 +59,13 @@ export default function Navbar() {
 
         <div className="hidden items-center gap-6 lg:flex">
           {links.map((link) => (
-            <a
+            <Link
               key={link.href}
               href={link.href}
               className="text-white/80 transition hover:text-amber-300"
             >
               {link.label}
-            </a>
+            </Link>
           ))}
 
           <LanguageSwitcher />
@@ -92,14 +98,14 @@ export default function Navbar() {
           >
             <div className="flex flex-col gap-5 px-6 py-6">
               {links.map((link) => (
-                <a
+                <Link
                   key={link.href}
                   href={link.href}
                   onClick={() => setIsOpen(false)}
                   className="text-white/90"
                 >
                   {link.label}
-                </a>
+                </Link>
               ))}
 
               <LanguageSwitcher />
