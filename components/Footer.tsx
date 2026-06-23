@@ -1,7 +1,13 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Phone, Mail, Send, Camera } from "lucide-react";
+import {
+  Phone,
+  Mail,
+  Send,
+  Camera,
+  Megaphone,
+} from "lucide-react";
 import { useTranslation } from "react-i18next";
 
 export default function Footer() {
@@ -16,30 +22,36 @@ export default function Footer() {
     },
     {
       icon: Mail,
-      title: "Email",
+      title: t("contact_email"),
       value: ["vivostfemida@gmail.com"],
       links: ["mailto:vivostfemida@gmail.com"],
     },
     {
       icon: Send,
-      title: "Telegram",
+      title: t("contact_telegram"),
       value: ["@VIVOST_FEMIDA"],
       links: ["https://t.me/VIVOST_FEMIDA"],
     },
     {
+      icon: Megaphone,
+      title: t("contact_channel"),
+      value: ["@VivostFemida"],
+      links: ["https://t.me/VivostFemida_law"],
+    },
+    {
       icon: Camera,
-      title: "Instagram",
+      title: t("contact_instagram"),
       value: ["@vivost_femida"],
       links: ["https://instagram.com/vivost_femida"],
     },
   ];
 
   return (
-    <section id="contact" className="bg-[#0d2b66] py-20 md:py-28 lg:py-36">
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="grid gap-16 lg:grid-cols-2 lg:gap-12">
-          
-          
+    <section id="contact" className="relative w-full py-20 bg-[#0d2b66]"> 
+      <div className="relative mx-auto max-w-7xl px-6 lg:px-8">
+        <div className="grid gap-20 lg:grid-cols-2">
+
+          {/* Контакты */}
           <motion.div
             initial={{ opacity: 0, x: -40 }}
             whileInView={{ opacity: 1, x: 0 }}
@@ -64,10 +76,13 @@ export default function Footer() {
                     className="flex items-start gap-4 border-b border-white/10 pb-6"
                   >
                     <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-3xl border border-white/10 bg-white/5 backdrop-blur-xl">
-                      <Icon size={22} className="text-[#cc4b7c]" />
+                      <Icon
+                        size={22}
+                        className="text-[#cc4b7c]"
+                      />
                     </div>
 
-                    <div className="min-w-0">
+                    <div>
                       <p className="text-xs uppercase tracking-[0.25em] text-amber-300">
                         {contact.title}
                       </p>
@@ -75,11 +90,19 @@ export default function Footer() {
                       <div className="mt-2 space-y-1">
                         {contact.value.map((line, idx) => (
                           <a
-                            key={line}
+                            key={idx}
                             href={contact.links[idx]}
-                            target={contact.links[idx].startsWith("http") ? "_blank" : undefined}
-                            rel={contact.links[idx].startsWith("http") ? "noreferrer" : undefined}
-                            className="block break-words text-lg text-white hover:text-amber-200 transition-colors sm:text-xl"
+                            target={
+                              contact.links[idx].startsWith("http")
+                                ? "_blank"
+                                : undefined
+                            }
+                            rel={
+                              contact.links[idx].startsWith("http")
+                                ? "noreferrer"
+                                : undefined
+                            }
+                            className="block text-lg text-white transition-colors hover:text-amber-200 sm:text-xl"
                           >
                             {line}
                           </a>
@@ -92,7 +115,7 @@ export default function Footer() {
             </div>
           </motion.div>
 
-          
+          {/* CTA */}
           <motion.div
             initial={{ opacity: 0, x: 40 }}
             whileInView={{ opacity: 1, x: 0 }}
@@ -118,9 +141,18 @@ export default function Footer() {
                 href="https://t.me/VIVOST_FEMIDA"
                 target="_blank"
                 rel="noreferrer"
-                className="flex justify-center rounded-full bg-gradient-to-r from-[#cc4b7c] to-[#b33966] px-6 py-4 text-center text-sm font-semibold uppercase tracking-[0.2em] text-white shadow-[0_0_20px_rgba(204,75,124,0.3)] transition duration-300 hover:scale-[1.02] hover:from-[#e05a8f] hover:to-[#c74475]"
+                className="flex justify-center rounded-full bg-gradient-to-r from-[#cc4b7c] to-[#b33966] px-6 py-4 text-center text-sm font-semibold uppercase tracking-[0.2em] text-white shadow-[0_0_20px_rgba(204,75,124,0.3)] transition duration-300 hover:scale-[1.02]"
               >
                 {t("contact_telegram_button")}
+              </a>
+
+              <a
+                href="https://t.me/VivostFemida_law"
+                target="_blank"
+                rel="noreferrer"
+                className="flex justify-center rounded-full border border-pink-400/30 px-6 py-4 text-center text-sm font-semibold uppercase tracking-[0.2em] text-pink-300 transition duration-300 hover:bg-pink-500/10"
+              >
+                {t("contact_channel_button")}
               </a>
 
               <a

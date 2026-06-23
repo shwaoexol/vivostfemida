@@ -85,10 +85,11 @@
 "contact_label": "Contact Us",
 "contact_title": "Contacts",
 
-"contact_phone": "Phone",
 "contact_email": "Email",
 "contact_telegram": "Telegram",
-"contact_socials": "Instagram",
+"contact_channel": "Telegram Channel",
+"contact_instagram": "Instagram",
+"contact_channel_button": "Subscribe to Channel",
 
 "contact_consultation_label": "Free Consultation",
 "contact_consultation_title": "Ready to Protect Your Interests",

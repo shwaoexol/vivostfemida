@@ -85,10 +85,11 @@
 "contact_label": "Biz bilan bog'laning",
 "contact_title": "Kontaktlar",
 
-"contact_phone": "Telefon",
 "contact_email": "Email",
 "contact_telegram": "Telegram",
-"contact_socials": "Instagram",
+"contact_channel": "Telegram kanali",
+"contact_instagram": "Instagram",
+"contact_channel_button": "Kanalga obuna bo'lish",
 
 "contact_consultation_label": "Bepul maslahat",
 "contact_consultation_title": "Manfaatlaringizni himoya qilishga tayyormiz",

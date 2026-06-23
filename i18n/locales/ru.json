@@ -89,11 +89,11 @@
 "contact_label": "Связаться с нами",
 "contact_title": "Контакты",
 
-"contact_phone": "Телефон",
 "contact_email": "Email",
 "contact_telegram": "Telegram",
-"contact_socials": "Instagram",
-
+"contact_channel": "Telegram-канал",
+"contact_instagram": "Instagram",
+"contact_channel_button": "Подписаться на канал",
 "contact_consultation_label": "Бесплатная консультация",
 "contact_consultation_title": "Готовы защитить ваши интересы",
 
